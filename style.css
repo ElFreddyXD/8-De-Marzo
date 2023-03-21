@@ -8,6 +8,8 @@
     text-decoration: none;
 }
 
+/* Estructura de la página */
+
 body {
     background-color: rgb(27, 31, 44);
 }
@@ -20,6 +22,8 @@ header {
     font-size: x-large;
 }
 
+/* Efecto de cambio al pasar el mouse por un link */
+
 header a:hover {
     transform: scale(1.2);
     color: aqua;
@@ -31,6 +35,8 @@ header a:hover {
     border: solid 3px rgb(184, 184, 184);
     border-radius: 100%;
 }
+
+/* Esta seria la foto grande que aparece al inicio */
 
 .foto {
     display: flex;
@@ -45,11 +51,15 @@ header a:hover {
     border-radius: 15px;
 }
 
+/* Este seria el Texto de la Imagen */
+
 .TI {
     text-align: center;
     font-size: 300%;
     padding-bottom: 50px;
 }
+
+/* Este es como el centro de la pagina */
 
 #centro {
     background-color: rgb(37, 47, 71);
@@ -76,6 +86,8 @@ header a:hover {
     padding-left: 4%;
 }
 
+/* Parte final de la pagina */
+
 #final {
     display: flex;
     flex-wrap: wrap;
@@ -94,6 +106,8 @@ header a:hover {
     flex-wrap: nowrap;
     padding: 15px;
 }
+
+/* Contenedor del video */
 
 .container1 {
     display: flex;
