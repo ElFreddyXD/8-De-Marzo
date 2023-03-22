@@ -107,6 +107,28 @@ header a:hover {
     padding: 15px;
 }
 
+/* Contenedores de textos */
+
+.tfinal1 {
+    background-color: rgb(37, 37, 62);
+    padding: 10px;
+}
+
+.tfinal2 {
+    background-color: rgb(37, 37, 62);
+    padding: 10px;
+}
+
+.tfinal3 {
+    background-color: rgb(37, 37, 62);
+    padding: 10px;
+}
+
+.tfinal4 {
+    background-color: rgb(37, 37, 62);
+    padding: 10px;
+}
+
 /* Contenedor del video */
 
 .container1 {
